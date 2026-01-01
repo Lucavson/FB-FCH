@@ -107,7 +107,7 @@
 18305.00,	19315.00,
 18360.00,	19370.00,
 18662.50,	19672.50
-
+    ],
     "note": "SYNTHETIC PLACEHOLDER - replace with real allocations"
   },
   "C": {
@@ -126,6 +126,7 @@
     ]
   }
 }
+
 
 
 
